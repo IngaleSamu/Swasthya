@@ -14,6 +14,6 @@ The idea :
 
 
 Note : 
-  1.The screenshots of websites are stored in "Webss" file in main branch.                                 
-  
-  2.The whole code, folders are in "Master" branch.
+1.The screenshots of websites are stored in "Webss" file in main branch.                                 
+
+2.The whole code, folders are in "Master" branch.
